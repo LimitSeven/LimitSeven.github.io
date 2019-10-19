@@ -1,0 +1,16 @@
+.custom
+element.style {
+    transform-origin: 0px 0px;
+}
+.controller.ds4.white {
+    /* background-image: url(ps4-white-assets/base.svgz); */
+}
+
+.ds4.half {
+    margin-top: -300px;
+}
+.controller.ds4 {
+    background: url(https://limitseven.github.io/PROTOTIPO%201.png);
+    height: 598px;
+    width: 806px;
+}
