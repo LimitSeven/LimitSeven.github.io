@@ -1,0 +1,41 @@
+.custom
+element.style {
+    transform-origin: 0px 0px;
+}
+.controller.ds4.white {
+     background-image: url(https://limitseven.github.io/base%20branco%20gold.svg); 
+}
+
+.ds4.half {
+    margin-top: -300px;
+}
+.controller.ds4 {
+    background: url(https://limitseven.github.io/PROTOTIPO%201.svg);
+    height: 598px;
+    width: 806px;
+}
+
+element.style {
+}
+
+.ds4.white .button {
+    /* background-image: url(ps4-white-assets/face.svgz); */
+}
+
+.ds4.white .button {
+    /* background-image: url(ps4-white-assets/face.svgz); */
+}
+
+.ds4 .a 
+{
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    /* background: url(ps4-assets/face.svgz)
+}
