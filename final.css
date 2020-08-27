@@ -14,3 +14,10 @@ element.style {
     height: 596px;
     width: 801px;
 }
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://limitseven.github.io/boton.png);
+}
